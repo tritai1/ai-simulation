@@ -1,0 +1,15 @@
+```csv
+theme,level,behavior_indicators
+Vision,Level 1 (Emerging),Understands team goals and immediate objectives | Seeks to understand the broader context of tasks | Contributes ideas for incremental improvements
+Vision,Level 2 (Proficient),Translates organizational vision into actionable team strategies | Anticipates future challenges and opportunities within their domain | Inspires team members with a clear sense of direction
+Vision,Level 3 (Enterprise),Shapes and articulates a compelling, long-term strategic vision | Identifies macro trends and disruptive forces impacting the industry | Mobilizes diverse stakeholders around a shared future ambition
+Entrepreneurship,Level 1 (Emerging),Takes initiative to solve problems within defined parameters | Identifies opportunities to improve efficiency in daily work | Shows a proactive approach to learning new skills
+Entrepreneurship,Level 2 (Proficient),Champions innovative ideas and drives their implementation | Manages calculated risks to achieve strategic objectives | Identifies new business opportunities or market niches
+Entrepreneurship,Level 3 (Enterprise),Disrupts existing models and pioneers entirely new ventures for growth | Cultivates a culture of calculated risk-taking and innovation | Secures resources and builds ecosystems for groundbreaking initiatives
+Passion,Level 1 (Emerging),Demonstrates enthusiasm for their work and team objectives | Commits to high-quality output and pays attention to detail | Actively seeks feedback to improve performance
+Passion,Level 2 (Proficient),Inspires and motivates others through dedication and energy | Embodies the brand's heritage and values in daily actions | Drives for excellence and challenges the status quo
+Passion,Level 3 (Enterprise),Serves as an authentic brand ambassador, radiating belief in Gucci's legacy | Fosters a culture where creativity, craftsmanship, and ambition thrive | Ignites a collective drive for unparalleled luxury experiences
+Trust,Level 1 (Emerging),Delivers on commitments and meets deadlines consistently | Communicates openly and honestly with immediate colleagues | Respects confidentiality and sensitive information
+Trust,Level 2 (Proficient),Builds strong, collaborative relationships based on mutual respect and reliability | Provides constructive feedback and creates an open dialogue environment | Acts with integrity and transparency in all professional dealings
+Trust,Level 3 (Enterprise),Establishes and nurtures a culture of psychological safety and accountability | Gains confidence from diverse stakeholders through consistent ethical leadership | Empowers teams by delegating effectively and trusting their expertise
+```
